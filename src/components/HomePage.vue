@@ -256,12 +256,12 @@ const showMoreLocations = () => {
 };
 
 const images = [
-  '../../images/b.jpg',
-  '../../images/c.jpg',
-  '../../images/d.jpg',
-  '../../images/1.jpg',
-  '../../images/e.jpg',
-  '../../images/f.jpg',
+  'https://images.app.goo.gl/46PdWVe5jq6kKBKYA',
+  'https://images.app.goo.gl/tnGtXafTKrrmiokz9',
+  'https://images.app.goo.gl/Atr3mtH4C7kD9iir8',
+  'https://images.app.goo.gl/ffwanHMm3BLC21m56',
+  'https://images.app.goo.gl/CSF9G7h8Pbvmkjzg8',
+  'https://images.app.goo.gl/aZGVENepRWuvhEUz9',
 
 ];
 
