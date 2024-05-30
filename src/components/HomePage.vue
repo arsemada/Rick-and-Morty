@@ -256,12 +256,12 @@ const showMoreLocations = () => {
 };
 
 const images = [
-  'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiewire.com%2Ffeatures%2Fgeneral%2Frick-and-morty-season-6-mid-year-review-1234771486%2F&psig=AOvVaw0TDaVs1Xe5BPuK3hsygJaQ&ust=1717070344569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCNCMjP26s4YDFQAAAAAdAAAAABCkAQ',
-  '',
-  'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D606022&psig=AOvVaw0TDaVs1Xe5BPuK3hsygJaQ&ust=1717070344569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCNCMjP26s4YDFQAAAAAdAAAAABCsAQ',
-  'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperswide.com%2Frick_and_morty_season_7-wallpapers.html&psig=AOvVaw0TDaVs1Xe5BPuK3hsygJaQ&ust=1717070344569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCNCMjP26s4YDFQAAAAAdAAAAABC8AQ',
-  'https://www.google.com/url?sa=i&url=https%3A%2F%2Fmrwallpaper.com%2Fwallpapers%2Fdope-rick-and-morty-yellow-planet-5bvxyhxs9gic3fpb.html&psig=AOvVaw0TDaVs1Xe5BPuK3hsygJaQ&ust=1717070344569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCNCMjP26s4YDFQAAAAAdAAAAABDEAQ',
-  'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersden.com%2Fmorty-smith-rick-sanchez-4k-art-wallpaper%2F&psig=AOvVaw0TDaVs1Xe5BPuK3hsygJaQ&ust=1717070344569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCNCMjP26s4YDFQAAAAAdAAAAABDMAQ',
+  'https://www.indiewire.com/wp-content/uploads/2022/10/Rick-Morty-Season-6-Fire-Eyes.png',
+  'https://wallpaperswide.com/download/rick_and_morty_season_7-wallpaper-3840x2160.jpg',
+  'https://mrwallpaper.com/images/hd/dope-rick-and-morty-yellow-planet-5bvxyhxs9gic3fpb.jpg',
+  'https://images5.alphacoders.com/606/606022.jpg',
+  'https://4kwallpapers.com/images/wallpapers/rick-and-morty-tv-3440x1440-9367.jpg',
+  'https://img.goodfon.com/wallpaper/big/e/10/rik-i-morti-rick-and-morty-5937.webp',
 
 ];
 
