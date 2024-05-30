@@ -256,12 +256,12 @@ const showMoreLocations = () => {
 };
 
 const images = [
-  'https://images.app.goo.gl/46PdWVe5jq6kKBKYA',
-  'https://images.app.goo.gl/tnGtXafTKrrmiokz9',
-  'https://images.app.goo.gl/Atr3mtH4C7kD9iir8',
-  'https://images.app.goo.gl/ffwanHMm3BLC21m56',
-  'https://images.app.goo.gl/CSF9G7h8Pbvmkjzg8',
-  'https://images.app.goo.gl/aZGVENepRWuvhEUz9',
+  'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiewire.com%2Ffeatures%2Fgeneral%2Frick-and-morty-season-6-mid-year-review-1234771486%2F&psig=AOvVaw0TDaVs1Xe5BPuK3hsygJaQ&ust=1717070344569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCNCMjP26s4YDFQAAAAAdAAAAABCkAQ',
+  '',
+  'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D606022&psig=AOvVaw0TDaVs1Xe5BPuK3hsygJaQ&ust=1717070344569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCNCMjP26s4YDFQAAAAAdAAAAABCsAQ',
+  'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperswide.com%2Frick_and_morty_season_7-wallpapers.html&psig=AOvVaw0TDaVs1Xe5BPuK3hsygJaQ&ust=1717070344569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCNCMjP26s4YDFQAAAAAdAAAAABC8AQ',
+  'https://www.google.com/url?sa=i&url=https%3A%2F%2Fmrwallpaper.com%2Fwallpapers%2Fdope-rick-and-morty-yellow-planet-5bvxyhxs9gic3fpb.html&psig=AOvVaw0TDaVs1Xe5BPuK3hsygJaQ&ust=1717070344569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCNCMjP26s4YDFQAAAAAdAAAAABDEAQ',
+  'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersden.com%2Fmorty-smith-rick-sanchez-4k-art-wallpaper%2F&psig=AOvVaw0TDaVs1Xe5BPuK3hsygJaQ&ust=1717070344569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCNCMjP26s4YDFQAAAAAdAAAAABDMAQ',
 
 ];
 
